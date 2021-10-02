@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    background: url("Ahri2.PNG") #CCC no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+    color: rgb(224, 222, 75);
+    
+    font-size: x-large;
+}
+header{background: rgba(182, 11, 54, 0.568);}
+button, div{display: inline-block;}
+div{
+    background-color: white;
+    font-size: 75%;
+    border-collapse: collapse;
+    color: white;
+}
